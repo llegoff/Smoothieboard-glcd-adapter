@@ -1,3 +1,5 @@
 Smoothieboard-glcd-adapter
 ==========================
-(pcb.PNG)
+![](proto1.jpg)
+![](proto2.jpg)
+![](pcb.PNG)
